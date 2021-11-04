@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xyamyam
+- 👀 I’m interested in crypto, nfts, web3
+- 🌱 I’m currently learning solidity, rust, wasm
+- 💞️ I’m looking to collaborate on crypto projects
+- 📫 How to reach me https://twitter.com/0xyamyam
